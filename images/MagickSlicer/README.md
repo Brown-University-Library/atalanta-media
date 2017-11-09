@@ -22,7 +22,7 @@ Step 6)
 	Install [OpenSeadragon](https://openseadragon.github.io/#download)
 
 Step 7)
-	Create a new project. For now, we reference the image tiles files and .dzi file through Github ( see [pageView.json(https://github.com/cbrusch/experiments/blob/master/image-viewer-test/data/pageView.json)] and [bookView.json](https://github.com/cbrusch/experiments/blob/master/image-viewer-test/data/bookView.json) )
+	Create a new project. For now, we reference the image tiles files and .dzi file through Github ( see [pageView.json](https://github.com/cbrusch/experiments/blob/master/image-viewer-test/data/pageView.json)] and [bookView.json](https://github.com/cbrusch/experiments/blob/master/image-viewer-test/data/bookView.json) )
 
 
 Additional Resources:
