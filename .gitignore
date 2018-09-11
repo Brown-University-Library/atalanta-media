@@ -1,2 +1,5 @@
 *.psd
-/images/MagickSlicer-source-files/*
+images/MagickSlicer-source-files/*
+images/MagickSlicer/pageView/pageView*.dzi
+images/MagickSlicer/pageView/pageView*/*
+images/bdr-scans/*
