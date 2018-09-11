@@ -1,5 +1,7 @@
+*.DS_Store
 *.psd
 images/MagickSlicer-source-files/*
+images/MagickSlicer/pageView/.dzi
 images/MagickSlicer/pageView/pageView*.dzi
 images/MagickSlicer/pageView/pageView*/*
 images/bdr-scans/*
