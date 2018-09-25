@@ -1,7 +1,9 @@
 *.DS_Store
 *.psd
-images/MagickSlicer-source-files/*
-images/MagickSlicer/pageView/.dzi
-images/MagickSlicer/pageView/pageView*.dzi
-images/MagickSlicer/pageView/pageView*/*
+*.zip
+emblem-images_tiled/MagickSlicer-master/*
 images/bdr-scans/*
+images/emblem-images_cropped/large/*
+images/emblem-images-large/*
+images/MagickSlicer/*
+images/MagickSlicer-source-files/*
