@@ -3,6 +3,7 @@
 *.zip
 emblem-images_tiled/MagickSlicer-master/*
 images/bdr-scans/*
+images/emblem-images_cropped/bdr698524_021_straightened.jpg
 images/emblem-images_cropped/large/*
 images/emblem-images-large/*
 images/MagickSlicer/*
