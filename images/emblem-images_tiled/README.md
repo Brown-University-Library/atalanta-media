@@ -10,6 +10,18 @@ Step 3)
 Download [MagickSlicer](https://github.com/VoidVolker/MagickSlicer), which requires ImageMagick
 
 Step 4)
+If you have high-resolution TIFF files, you will first need to export them to JPEG because MagickSlicer will not tile TIFFs. If you already have high-resolution JPEGs, skip to Step 5
+
+To convert your TIFF files to JPEG, open the first TIFF in Photoshop
+In Photoshop, go to File > Scripts > Image Processor
+In part 1, select the source folder where your TIFFs are located
+In part 2, select the destination folder where you would like to keep your exported JPEGs
+In part 3, select the Save as JPEG checkbox, the preferred image quality (I use 10—12), and the convert profile to sRGB checkbox
+In part 4, keep the Include ICC Profile selected
+Then click Run to process all the files in your source folder
+
+
+Step 5)
 To use MagickSlicer, cd to the MagickSlicer-master folder and enter the following command in Terminal
 
 	``` ./magick-slicer.sh -i path/to/source-folder/name-of-file.jpg -o path/to/destination-folder/name-of-file ```
