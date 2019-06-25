@@ -29,8 +29,8 @@ Source code is available at [zooming-image-viewer](https://github.com/Brown-Univ
 
 [XML](https://github.com/Brown-University-Library/atalanta-code/tree/master/data/mei) (MEI or Music Encoding Initiative) for 50 fugues
 
-[WAV](https://github.com/Brown-University-Library/atalanta-media/tree/master/audio/emblem-music/wav) audio files for 50 fugues
+[WAV](https://github.com/Brown-University-Library/atalanta-media/tree/master/audio/emblem-music/wav) audio files for 50 fugues in three voices
 
-[JP2](https://repository.library.brown.edu/studio/item/bdr:698524/) image files for _Atalanta fugiens_), 1618
+[JP2](https://repository.library.brown.edu/studio/item/bdr:698524/) image files for _Atalanta fugiens_, 1618
 
 [JSON](https://github.com/Brown-University-Library/atalanta-code/blob/master/data/json/byterm_enh_array.json) (JavaScript Object Notation) image search terms for 50 emblem images and the frontispiece
